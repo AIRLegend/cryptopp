@@ -291,3 +291,13 @@ pip-log.txt
 
 # Dependency file
 *.d
+
+
+
+CMakeFiles/*
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+cryptopp-config-version.cmake
+cryptopp-targets.cmake
+
